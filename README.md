@@ -1,3 +1,7 @@
+## Confetti Effect using React Three Fiber
+
+Confetti Website: [Confetti](https://j-mckinney.github.io/ConfettiEffect/).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
