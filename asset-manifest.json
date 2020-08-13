@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/ConfettiEffect/static/css/main.8fed40f6.chunk.css",
-    "main.js": "/ConfettiEffect/static/js/main.e8c2b412.chunk.js",
-    "main.js.map": "/ConfettiEffect/static/js/main.e8c2b412.chunk.js.map",
+    "main.js": "/ConfettiEffect/static/js/main.4002d14e.chunk.js",
+    "main.js.map": "/ConfettiEffect/static/js/main.4002d14e.chunk.js.map",
     "runtime-main.js": "/ConfettiEffect/static/js/runtime-main.52f1a260.js",
     "runtime-main.js.map": "/ConfettiEffect/static/js/runtime-main.52f1a260.js.map",
-    "static/js/2.dadaacae.chunk.js": "/ConfettiEffect/static/js/2.dadaacae.chunk.js",
-    "static/js/2.dadaacae.chunk.js.map": "/ConfettiEffect/static/js/2.dadaacae.chunk.js.map",
+    "static/js/2.d4cfe2d2.chunk.js": "/ConfettiEffect/static/js/2.d4cfe2d2.chunk.js",
+    "static/js/2.d4cfe2d2.chunk.js.map": "/ConfettiEffect/static/js/2.d4cfe2d2.chunk.js.map",
     "index.html": "/ConfettiEffect/index.html",
-    "precache-manifest.2f40a19cfb21167e478879a4fd6875f3.js": "/ConfettiEffect/precache-manifest.2f40a19cfb21167e478879a4fd6875f3.js",
+    "precache-manifest.ead413fa2828b2a6a62737fddfda439b.js": "/ConfettiEffect/precache-manifest.ead413fa2828b2a6a62737fddfda439b.js",
     "service-worker.js": "/ConfettiEffect/service-worker.js",
     "static/css/main.8fed40f6.chunk.css.map": "/ConfettiEffect/static/css/main.8fed40f6.chunk.css.map",
-    "static/js/2.dadaacae.chunk.js.LICENSE.txt": "/ConfettiEffect/static/js/2.dadaacae.chunk.js.LICENSE.txt"
+    "static/js/2.d4cfe2d2.chunk.js.LICENSE.txt": "/ConfettiEffect/static/js/2.d4cfe2d2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.52f1a260.js",
-    "static/js/2.dadaacae.chunk.js",
+    "static/js/2.d4cfe2d2.chunk.js",
     "static/css/main.8fed40f6.chunk.css",
-    "static/js/main.e8c2b412.chunk.js"
+    "static/js/main.4002d14e.chunk.js"
   ]
 }

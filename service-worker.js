@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ConfettiEffect/precache-manifest.2f40a19cfb21167e478879a4fd6875f3.js"
+  "/ConfettiEffect/precache-manifest.ead413fa2828b2a6a62737fddfda439b.js"
 );
 
 self.addEventListener('message', (event) => {
